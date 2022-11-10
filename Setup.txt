@@ -1,0 +1,9 @@
+Run CMD
+
+Have Node Installed with TypeScript
+
+Run `npm start`
+
+Compile the typescript, and..
+
+Voila!
