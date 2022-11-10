@@ -5,4 +5,4 @@ An easy to use typescript List Interface, You may use this as you please, this l
 
 TypeScript + Frontend in (HTML + CSS) / Bootstrap 5
 
-![alt text](https://github.com/TheAp0cryphal/Add-and-Remove-List-RealTime-Updated-View-No-Reload-/blob/master/Pig1.png)
+![alt text](https://github.com/TheAp0cryphal/Add-and-Remove-List-No-Refresh-TypeScript/blob/master/Pig1.png)
